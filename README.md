@@ -48,7 +48,7 @@ no_violation
 
 ## Important note about Hugging Face
 
-The included 500-row CSV is a **ChatGPT-generated synthetic prototype dataset** for your exact thesis labels.
+The included 500-row CSV is a **synthetic prototype dataset** for your exact thesis labels.
 
 Hugging Face is useful if you later find a dataset with similar traffic, obstruction, or complaint text. However, most public Hugging Face NLP datasets will not already use your exact CIVICLEAR/DILG labels, so you must manually map them before training.
 
