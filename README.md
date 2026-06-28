@@ -201,7 +201,7 @@ Policy Category: Road Clearing Obstruction
 Status: Pending Review
 ```
 
-## What to send back to the thesis leader
+## What to send back to ellapot
 
 Send these files:
 
