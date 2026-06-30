@@ -1,0 +1,7 @@
+label,total,train,valid,test
+illegal_parking,84,59,13,12
+garbage_debris,84,59,13,12
+construction_materials,83,58,12,13
+road_obstruction,83,58,12,13
+sidewalk_obstruction,83,58,12,13
+no_violation,83,58,12,13

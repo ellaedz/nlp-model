@@ -1,0 +1,75 @@
+id,text,label,language,source,notes
+NLP0293,May mga basura na naiwan sa harap ng bahay at sagabal sa daan.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0284,May tarpaulin stand sa bangketa kaya napipilitan ang tao dumaan sa kalsada.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0320,"May nakaharang na wooden barricade sa public road, delikado sa motorista.",road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0074,Report ko po yung jeep na parked sa kalsada.,illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0259,May debris na nakatambak sa eskinita kaya nahihirapan dumaan ang tao.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0246,May mga plastic waste na naiwan sa tapat ng tindahan at sagabal sa daan.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0332,Paki-validate po yung tiles na nakalagay sa main road.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0472,May large container na nakaharang sa gilid ng daan na nagdudulot ng traffic.,road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0454,"May nakaparadang tricycle sa barangay road, hindi makadaan nang maayos ang mga tao.",illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0374,"Road obstruction po, may old furniture na blocking sa daanan.",road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0325,"Wala pong violation sa area, walang nakaharang ang pedestrian area.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0116,Construction material obstruction: buhangin nakaharang near the barangay hall.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0369,today may construction materials sa intersection na sagabal sa daan.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0249,"May nakaparadang delivery van sa public road, hindi makadaan nang maayos ang mga tao.",illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0231,kanina pa may obstruction sa pedestrian lane: metal frame.,road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0358,"May nakaharang na barrier near the barangay hall, delikado sa motorista.",road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0042,A motorcycle is parked sa sidewalk and blocks the way.,illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0176,May tambak na basura na nakakalat malapit sa school please verify this report.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0406,"May nakaparadang truck malapit sa school, hindi makadaan nang maayos ang mga tao.",illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0338,Pedestrians cannot pass because a motorcycle sa sidewalk is blocking the sidewalk.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0071,"Sidewalk obstruction po, mesa ng vendor occupying near the barangay hall.",sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0126,since yesterday may kotse na nakaharang habang nakaparada at nakakasikip sa pedestrian lane.,illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0291,Construction material obstruction: construction materials stored sa tapat ng tindahan.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0159,Paki-verify po yung mesa ng vendor na nakalagay sa sidewalk.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0002,"clear naman po ang pedestrian area, walang sagabal.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0493,Paki-verify po yung display rack na occupying sa sidewalk.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0297,"Wala pong violation sa area, passable ang daan.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0048,"May nakaparadang motorcycle sa eskinita, hindi makadaan nang maayos ang mga tao.",illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0433,Illegal parking po: van nakaharang habang nakaparada sa eskinita .,illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0209,Report ko po yung private car na nakaparada sa sidewalk.,illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0223,Nakatambak ang construction materials sa kalsada at nakakaabala sa road clearing.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0122,May sako ng basura na iniwan sa intersection causing pedestrians to walk on the road.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0321,May stall sa bangketa kaya napipilitan ang tao dumaan sa kalsada.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0349,Malinis ang daan at walang obstruction.,no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0204,simula kagabi may construction materials sa intersection na sagabal sa daan.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0458,May plastic waste na iniwan malapit sa palengke please verify this report.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0006,Construction material obstruction: steel bars nakaharang sa main road.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0137,"kaninang umaga clear naman po ang daan, walang sagabal.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0243,"simula kagabi clear naman po ang pedestrian area, walang sagabal.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0187,"Wala pong violation sa area, clear ang barangay road.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0055,"Sidewalk obstruction po, tarpaulin stand occupying sa pedestrian lane.",sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0036,Paki-validate po yung buhangin na iniwan malapit sa palengke.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0240,May paninda na nakalagay sa sidewalk kailangan pong ma-check.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0134,kaninang umaga may tambak na tambak na basura sa gilid ng daan.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0468,Nakatambak ang gravel sa gilid ng daan at nakakaabala sa road clearing.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0022,May signboard na blocking sa sidewalk na nagdudulot ng traffic.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0058,May plastic waste na iniwan sa main road .,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0234,Paki-check po ang large container na nakaharang sa public road.,road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0408,Paki-check po ang sirang kahoy na blocking near the market area.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0317,"Wala pong violation sa area, walang nakaharang ang kalsada.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0203,this morning may nakaharang sa sidewalk: paninda.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0329,"Wala pong violation sa area, malinis ang public road.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0432,"Wala pong violation sa area, malinis ang daan.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0216,"during rush hour clear naman po ang pedestrian area, walang sagabal.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0064,"Sidewalk obstruction po, stall nakalagay sa barangay road.",sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0241,"May nakaparadang jeep sa kalsada, hindi makadaan nang maayos ang mga tao.",illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0299,"Road obstruction po, may traffic cone na nasa gitna sa daanan.",road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0391,May tricycle na nakaharang habang nakaparada sa tapat ng tindahan at nakakaabala sa mga dumadaan.,illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0106,Paki-validate po yung hollow blocks na nakaharang sa kalsada.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0372,May signboard na naka-display sa sidewalk kaya nahihirapan dumaan ang tao.,sidewalk_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0163,May mga fallen branches na naiwan sa barangay road at sagabal sa daan.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0245,May mga sako ng basura na naiwan sa harap ng bahay at sagabal sa daan.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0150,Report ko po yung sasakyan na parked sa main road.,illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0056,May traffic cone na iniwan near the market area please verify this report.,road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0007,Paki-check po ang old furniture na iniwan sa eskinita.,road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0285,kaninang umaga may construction materials sa main road na sagabal sa daan.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0226,"Wala pong violation sa area, safe ang barangay road.",no_violation,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0464,"May nakaharang na wooden barricade sa eskinita, delikado sa motorista.",road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0079,during rush hour may obstruction near the barangay hall: crate.,road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0132,since yesterday may tambak na sako ng basura sa kalsada.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0170,There are garbage bags malapit sa school blocking the path.,garbage_debris,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0482,May van na parked malapit sa palengke na nagdudulot ng traffic.,illegal_parking,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0485,"Road obstruction po, may sirang upuan na blocking sa daanan.",road_obstruction,taglish,chatgpt_synthetic,synthetic thesis prototype row
+NLP0314,Paki-validate po yung gravel na iniwan sa kalsada.,construction_materials,taglish,chatgpt_synthetic,synthetic thesis prototype row
